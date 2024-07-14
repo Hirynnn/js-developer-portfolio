@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Vitor Aguiar",
+  "photo": "https://avatars.githubusercontent.com/u/104656492?s=400&u=6922a98083d278e173edfed5a4d77d8a501b97f6&v=44",
+  "job": "Estagiario em Desenvolvimento no MSF",
+  "location": "Nova Iguaçu - RJ",
+  "phone": "(21) 99128-4985",
+  "email": "vitorfairy12@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -15,26 +15,20 @@
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
+      
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
+     
       {
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Dedicado",
+      "Apaixonado",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -43,36 +37,25 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso profissional de analista de dados do Google",
+      "url": "https://www.credly.com/badges/a96b7548-cdcf-407a-91fd-660a8d16e0ba/linked_in_profile",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso de desenvolvimento com Java",
+      "url": "https://www.dio.me/certificate/AB688188/share",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Estagiario em desenvolvimento de sistemas no médico sem fronteiras",
+      "period": "2024 - até o momento",
+      "description": "Projeto e desenvolver sistemas de automações para melhorar a gestão de negócios."
     }
   ]
 }
