@@ -7,23 +7,20 @@
   "email": "vitorfairy12@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
+      
       {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/Hirynnn/js-developer-portfolio/main/data/imgs/js.png"
       },
      
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/Hirynnn/js-developer-portfolio/main/data/imgs/python.png"
       }
     ],
     "softSkills": [
@@ -41,12 +38,12 @@
   ],
   "portfolio": [
     {
-      "name": "Curso profissional de analista de dados do Google",
+      "name": "Curso profissional de analista de dados na Coursera",
       "url": "https://www.credly.com/badges/a96b7548-cdcf-407a-91fd-660a8d16e0ba/linked_in_profile",
       "github": true
     },
     {
-      "name": "Curso de desenvolvimento com Java",
+      "name": "Curso desenvolvedor Java Na DIO",
       "url": "https://www.dio.me/certificate/AB688188/share",
       "github": true
     }
